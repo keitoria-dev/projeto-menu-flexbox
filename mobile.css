@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+header > nav{
+    display: flex;
+    flex-wrap: wrap;
+    width: 220px;
+}
+
+header > nav > a{
+    width: 100px;
+}
+
+a{
+    border-radius: 30px;
+    height: 30px;
+}
